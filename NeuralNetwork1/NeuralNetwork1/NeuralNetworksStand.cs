@@ -213,5 +213,10 @@ namespace NeuralNetwork1
         {
             infoStatusLabel.Text = "Тестировать нейросеть на тестовой выборке такого же размера";
         }
+
+        private void netStructureBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
